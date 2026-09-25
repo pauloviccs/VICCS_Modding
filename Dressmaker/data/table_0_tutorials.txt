@@ -1,0 +1,71 @@
+1016142336000 = Before you can design a dress, you need to <style=c1>measure</style> your client.
+1016171696128 = <style=c1>Drag the measuring tape</style> onto the client's body to take measurements.
+1016171696129 = Move the tape to measure the <style=c1>bust</style>, <style=c1>waist</style>, and <style=c1>hips</style>. Hold still for a moment to record each measurement.
+1016171696130 = All measurements recorded! Click <style=c1>Confirm</style> to accept the commission.
+1016171696131 = Now you need to <style=c1>adjust the mannequin</style> to match your client's measurements.
+1016171696132 = <style=c1>Drag the measuring tape</style> onto the mannequin.
+1016171696133 = <style=c1>Turn the gears</style> to adjust the mannequin's proportions. Match the ghost outlines for the best fit.
+1016171696134 = Great fit! Click <style=c1>Confirm</style> when you're satisfied with the mannequin sizing.
+1016171696135 = Every dress starts with a design in your sketchbook.
+1016171696136 = Your <color=#0e85d9>style</color>, choice of <color=#0e85d9>fabric</color>, and overall <color=#0e85d9>execution</color> determine how happy your client will be.
+1016171696137 = Change your design by <style=c1>clicking the arrows</style> next to each component.
+1016171696138 = You can also save fabric and haberdashery samples in the sketchbook.
+1016171696139 = <style=c1>Drag fabric</style> onto the page to test how your design and fabric fit the client's needs.
+1016171696140 = These tags are just an estimate! The real fabric used affects the final result.
+1016171696141 = Use the <style=c1>pencil</style> to try colour combos.
+1016171696142 = Now find a <style=c1>design</style> and <style=c1>fabric</style> that is appropriate for a <color=#0e85d9>Professional</color> garment.
+1016171696143 = When you are happy with your design, click <color=#0e85d9>Draft Pattern</color>.
+1016171696144 = Here you can buy more fabric to use for making dresses.
+1016171696145 = You should try <style=c1>buy fabrics</style> appropriate to your client's desires - try and find ones that are tagged as <style=c1>professional</style>.
+1016171696146 = You can <style=c1>filter</style> the available options by clicking the filter button.
+1016171696147 = Get at least <style=c1>5 meters</style> of fabric... just to be safe. You can always use it later!
+1016171696148 = Nice choices! You may continue shopping and <style=c1>return to the front desk</style> when ready.
+1016171696149 = Select the fabric you'd like to use by clicking on it in the sidebar.
+1016171696150 = To begin cutting, switch to <color=#0e85d9>patterns</color> on the sidebar.
+1016171696151 = <color=#0e85d9>Drag</color> your pattern pieces onto the fabric to begin cutting.
+1016171696152 = Aligning the <style=c1>grain</style> line <style=c1>horizontally</style> will result in a higher <style=c1>quality</style> garment.
+1016171696153 = Use the <style=c1>rotation knob</style> to rotate the pattern piece so it aligns with the horizontal grain line
+1016171696154 = Now select the <color=#0e85d9>scissors</color> and click on the pattern piece to cut it out.
+1016171696155 = You can always recut or dispose if you are unhappy - you will get back the piece of fabric you used!
+1016171696156 = Now <color=#0e85d9>right click</color> or <color=#0e85d9>drag</color> the piece back into your inventory.
+1016171696157 = Great! Now place, align and cut out the rest of the pieces of the fabric.
+1016171696158 = You can discard used parts of your fabric to make space for more pieces by pressing the <color=#0e85d9>discard fabric button</color> or holding the <color=#0e85d9>scissors</color> at the top or bottom edge of the roll, then clicking.
+1016171696159 = Oops! It seems like you've run out of fabric. It's important to remain efficient with usage! For now, have some extra, on the house!
+1016171696160 = Now you may drag the pieces back into your inventory and return to the <color=#0e85d9>front desk</color>.
+1016171696161 = You may now <style=c1>assemble</style> and assess your dress on the mannequin.
+1016171696162 = <style=c1>Drag the cut out fabric pieces</style> from your inventory onto the appropriate spot on the mannequin.
+1016171696163 = If you are happy with the layout of the pieces, you can sew them together by clicking the <color=#0e85d9>sew</color> button.
+1016171696164 = Great! Now complete the rest of the pieces.
+1016171696165 = Remember, you can always remove a panel, return to the cutting room and cut it again!
+1016171696166 = Congratulations! You've completed your first dress!
+1016171696167 = Now we'll sew this piece to its neighbour.
+1016171696168 = <style=c1>Drag the mouse</style> left and right to rotate the piece.
+1016171696169 = Press <style=c1>space</style> to sew.
+1016171696170 = We've unlocked some <style=c1>Accessories</style>, let's buy some!
+1016171696171 = Let's add some <style=c1>accessories</style> to this dress.
+1016171696172 = Click to select an accessory piece, and click on where you want to position it on the dress.
+1016171696173 = You can drag the items to rearrange, or drag them back to the inventory to remove.
+1016171696174 = Before returning the dress to our customer, let's take a photo for our records.
+1016171696175 = Adjust camera angle with the <style=c1>Camera Controls</style>
+1016171696176 = You can also adjust the environment with the environmental controls.
+1016171696177 = When you are happy with your shot, click <style=c1>Take Photo</style>.
+1016171696178 = You can now also make off the rack dresses which you can sell for extra income and prestige!
+1016171696179 = Click the <style=c1>non commissioned dress</style> tab to start.
+1016171696180 = You may now also gift dresses to the clients you've met. Each client has their own preferences and measurements, you can see these in the Sketchbook.
+4341277372956672 = Most esteemed Dressmaker,
+4341277385539584 = The Office of the Crown of Queen Sophie Vasar of Hemstitch has received word of your great accomplishments and service to the town of Twillford. By our estimations and observations, we deem you to be an outstanding artisan, worthy of national recognition. We also understand you to be a pillar of the community, and a friend to all who seek your services.
+4341277385539585 = The following residents of Twillford send letters of personal commendation to our Office.
+4341277385539586 = Prudence Mortimer, for your impeccable refinement and discretion, and for your affection,
+4341277385539587 = Lady Priya Summer, for your passionate artistic sensibilities, and your caring spirit,
+4341277385539588 = Duchess Marie Summer, for your ambition, grace, and unwavering friendship,
+4341277385539589 = Edith Swan, for your theatrical flair, tireless work ethic, and great compassion,
+4341277385539590 = Alice Wren, for your powerful imagination, your understanding, and your sweet temperament,
+4341277385539591 = Fiona Trussard, for your services in promoting her business, and for your boundless curiosity regarding her personal life,
+4341277385539592 = Lady Vivian Duskbourne, for your cunning intelligence and obliging nature,
+4341277385539593 = Dorothy Parker, for your patience, enthusiasm, and immense kindness,
+4341277385539594 = Rosalind Page, for seeing her when no one else did.
+4341277385539595 = Based on these commendations, and our own adora-tion of your work, it is our profound pleasure to bestow upon you the title of Knight of the Realm. We offer our congratulations, and trust you know that this honour could not be more deserved.
+4341277385539596 = You shall be required to present yourself forthwith at the Royal Palace for the occasion of the Knighthood Ceremony. Please attend attired in a dress befitting of the occasion, and demonstrative of your skill as the best dressmaker of Hemstitch.
+4341277385539597 = With great expectation and the fullest trust,
+4341277385539598 = Queen Sophie Vasar of Hemstitch
+6868267602788352 = Open the <style=c1>Accessories</style> tab.

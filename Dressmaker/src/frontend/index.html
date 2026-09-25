@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dressmaker — Tradução PT-BR</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient-background">
+    <div class="glow-orb orb-1"></div>
+    <div class="glow-orb orb-2"></div>
+    <div class="subtle-texture"></div>
+  </div>
+
+  <main class="app-window">
+    <!-- Moldura e Efeito de Ateliê -->
+    <div class="atelier-card">
+      <div class="card-ornament top-left"></div>
+      <div class="card-ornament top-right"></div>
+      <div class="card-ornament bottom-left"></div>
+      <div class="card-ornament bottom-right"></div>
+
+      <!-- Cabeçalho -->
+      <header class="card-header">
+        <div class="atelier-tag">
+          <svg class="needle-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 2L14 8L12 22L10 8L12 2Z" fill="var(--accent-gold)"/>
+            <circle cx="12" cy="5" r="1" fill="#110f13"/>
+          </svg>
+          <span>Ateliê de Localização • PT-BR</span>
+        </div>
+
+        <h1 class="brand-title">DRESSMAKER</h1>
+        <p class="brand-subtitle">Mod de Tradução em Português do Brasil</p>
+      </header>
+
+      <!-- Painel de Detecção do Jogo -->
+      <section class="game-detection-panel">
+        <div class="detection-header">
+          <span class="panel-caption">Diretório do Jogo</span>
+          <div class="badge-status-wrap">
+            <span class="status-dot" id="status-dot"></span>
+            <span class="status-pill" id="status-pill">Verificando...</span>
+          </div>
+        </div>
+
+        <div class="path-display-box">
+          <div class="path-info">
+            <span class="path-icon">📁</span>
+            <span class="path-string" id="path-text">C:\Games\Dressmaker</span>
+          </div>
+          <button class="btn-browse" id="btn-browse" title="Alterar pasta do jogo">
+            <span>Alterar</span>
+          </button>
+        </div>
+
+        <!-- Indicador de Status do Mod -->
+        <div class="mod-state-strip">
+          <div class="state-col">
+            <span class="state-label">Estado da Tradução</span>
+            <span class="state-val" id="mod-installed-status">Aguardando Verificação</span>
+          </div>
+          <div class="state-col text-right">
+            <span class="state-label">Versão do Mod</span>
+            <span class="state-val gold-accent" id="mod-version">v1.0.0</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Área de Ação Principal -->
+      <section class="action-area">
+        <button class="btn-main" id="btn-install">
+          <div class="btn-content">
+            <span class="btn-icon">🪡</span>
+            <span class="btn-text" id="install-btn-text">Instalar Tradução PT-BR</span>
+          </div>
+          <div class="btn-shimmer"></div>
+        </button>
+
+        <!-- Barra de Progresso com Fio de Costura -->
+        <div class="progress-wrap hidden" id="progress-container">
+          <div class="progress-info-row">
+            <span class="progress-phase" id="progress-phase-text">Iniciando instalação...</span>
+            <span class="progress-percentage" id="progress-percent-text">0%</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-bar" id="progress-bar">
+              <span class="thread-stitch"></span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Rodapé com Ações de Suporte e Cozy Utilities -->
+      <footer class="card-footer">
+        <button class="btn-secondary" id="btn-restore" disabled>
+          <span class="icon">↺</span> Restaurar Original
+        </button>
+        <button class="btn-secondary" id="btn-launch" disabled>
+          <span class="icon">▶</span> Iniciar Jogo
+        </button>
+      </footer>
+    </div>
+
+    <!-- Toast de Notificações -->
+    <div class="toast-shelf" id="toast-shelf"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
