@@ -257,7 +257,7 @@ class ModPatcher:
         # Grava o manifesto
         manifest = {
             "mod_name": "Dressmaker PT-BR Localization",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "strings_patched": patched_count,
             "total_matched": total_matched
